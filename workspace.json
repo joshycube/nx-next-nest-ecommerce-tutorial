@@ -1,0 +1,12 @@
+{
+  "$schema": "./node_modules/nx/schemas/workspace-schema.json",
+  "version": 2,
+  "projects": {
+    "aggregator": "apps/aggregator",
+    "ecomm-store": "apps/ecomm-store",
+    "ecomm-store-e2e": "apps/ecomm-store-e2e",
+    "price": "apps/price",
+    "product": "apps/product",
+    "stock": "apps/stock"
+  }
+}
